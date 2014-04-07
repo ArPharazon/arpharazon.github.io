@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hello, I'm Sean]]></title>
+  <link href="http://arpharazon.github.io/atom.xml" rel="self"/>
+  <link href="http://arpharazon.github.io/"/>
+  <updated>2014-04-07T14:52:03+10:00</updated>
+  <id>http://arpharazon.github.io/</id>
+  <author>
+    <name><![CDATA[Sean Holm]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
